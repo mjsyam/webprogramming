@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<mahasiswa>
+		<no>1</no>
+		<nama>Abdul Rasyid</nama>
+		<nim>10161001</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>2</no>
+		<nama>Alya Sekar Ayu Salsabila</nama>
+		<nim>10171003</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>3</no>
+		<nama>Ananda Oktavia Putri Pratama</nama>
+		<nim>10171005</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>4</no>
+		<nama>Anggi Parastika</nama>
+		<nim>10171007</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>5</no>
+		<nama>Arif Hermawan</nama>
+		<nim>10161017</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>6</no>
+		<nama>Bestin Septia Sinambela</nama>
+		<nim>10171010</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>7</no>
+		<nama>Bragatama Pertiwibowo</nama>
+		<nim>10171011</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>8</no>
+		<nama>Brianto Rovi Harjanto</nama>
+		<nim>10171012</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>9</no>
+		<nama>Dewi Linda Wulandari</nama>
+		<nim>10171015</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>10</no>
+		<nama>Dinda Dwi Ananda</nama>
+		<nim>10171019</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>11</no>
+		<nama>Enjellia Priscilla Br. Pangaribuan</nama>
+		<nim>10171025</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>12</no>
+		<nama>Excsell Edo Putra Setyo</nama>
+		<nim>10161031</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>13</no>
+		<nama>Ezra Ruth</nama>
+		<nim>10161032</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>14</no>
+		<nama>Fahrizza Irham Taufany</nama>
+		<nim>10171026</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>15</no>
+		<nama>Faisal Fachrureza</nama>
+		<nim>10171027</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>16</no>
+		<nama>Fery Darmawan</nama>
+		<nim>10171028</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>17</no>
+		<nama>Fhadillah Abdi Purwaji</nama>
+		<nim>10171029</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>18</no>
+		<nama>Gerry Muhammad Putra</nama>
+		<nim>10171031</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>19</no>
+		<nama>Gilang Perdana</nama>
+		<nim>10171032</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>20</no>
+		<nama>Hemy Octantia</nama>
+		<nim>10171033</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>21</no>
+		<nama>Hendy Maulana Jaya Saputra</nama>
+		<nim>10171034</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>22</no>
+		<nama>Ibnu Mas'ud</nama>
+		<nim>10171037</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>23</no>
+		<nama>Ichza Mahendra Pratama</nama>
+		<nim>10161043</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>24</no>
+		<nama>Irfani Yahya</nama>
+		<nim>10171039</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>25</no>
+		<nama>M. Attaqwa Ananta Budi </nama>
+		<nim>10171043</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>26</no>
+		<nama>Muhammad Irza Fahri</nama>
+		<nim>10171050</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>27</no>
+		<nama>Muhammad Nur Syamsudin</nama>
+		<nim>10171051</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>28</no>
+		<nama>Muhammad Putra Age</nama>
+		<nim>10171052</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>29</no>
+		<nama>Nadine Octaraisya</nama>
+		<nim>10171055</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>30</no>
+		<nama>Nikita Sarah Putri</nama>
+		<nim>10171056</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>31</no>
+		<nama>Nur Amalia Agustyana</nama>
+		<nim>10171057</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>32</no>
+		<nama>Nurvianto Samputra Makruf</nama>
+		<nim>10161070</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>33</no>
+		<nama>Rahmat Hardiansyah</nama>
+		<nim>10171059</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>34</no>
+		<nama>Ramdhani Rahman</nama>
+		<nim>10171061</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>35</no>
+		<nama>Renaldi Johar Awal</nama>
+		<nim>10171062</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>36</no>
+		<nama>Rendy Setyawan</nama>
+		<nim>10171063</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>37</no>
+		<nama>Said Abdian R</nama>
+		<nim>10171068</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>38</no>
+		<nama>Samuel Govery</nama>
+		<nim>10171070</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>39</no>
+		<nama>Seto Afandi Rahman</nama>
+		<nim>10171071</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>40</no>
+		<nama>Tasya Ainunnisya</nama>
+		<nim>10171073</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>41</no>
+		<nama>Wira Maulana</nama>
+		<nim>10171075</nim>
+	</mahasiswa>
+	<mahasiswa>
+		<no>42</no>
+		<nama>Yunita Devi Djohan</nama>
+		<nim>10171076</nim>
+	</mahasiswa>
+</data>
