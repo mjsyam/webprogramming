@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<!-- jQuery Example 4: JQEx4.html -->
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>jQuery Example 4: Animation and Special Effects</title>
+    <script src="js/jquery-1.11.2.min.js"></script>
+    <script>
+        // Run after the Document DOM tree is constructed
+        // to bind click event handle to all the buttons
+        $(function () {
+            // Show it by popping up
+            $(':button[id="btnShow"]').click(function () {
+                $('#logo').show();
+            });
+
+            // Hide it by popping out
+            $(':button[id="btnHide"]').click(function () {
+                $('#logo').hide();
+            });
+
+            // If it is visible, hide it; otherwise, show it
+            $(':button[id="btnToggle"]').click(function () {
+                $('#logo').toggle();
+            });
+
+            // Show by fading in
+            $(':button[id="btnFadeIn"]').click(function () {
+                $('#logo').fadeIn(1000);  // Speed: 1 sec
+            });
+
+            // Hide by fading out
+            $(':button[id="btnFadeOut"]').click(function () {
+                $('#logo').fadeOut(
+                    2000,                // Speed: 2 sec
+                    function () {         // Callback when complete
+                        alert('done!');
+                    });
+            });
+
+            // If it is visible, fade-out; Otherwise, fade-in
+            $(':button[id="btnFadeToggle"]').click(function () {
+                $('#logo').fadeToggle(3000);  // Speed: 3 sec
+            });
+
+            // Hide by sliding-up to top-left corner
+            $(':button[id="btnSlideUp"]').click(function () {
+                $('#logo').slideUp();   // disappear,
+            });
+
+            // Show by sliding-down from top-left corner
+            $(':button[id="btnSlideDown"]').click(function () {
+                $('#logo').slideDown();
+            });
+
+            // If it is visible, slide-up; Otherwise, slide-down
+            $(':button[id="btnSlideToggle"]').click(function () {
+                $('#logo').slideToggle();
+            });
+
+
+            // Custom animation, by applying given CSS properties
+            var toggleFlag = true;
+            $(':button[id="btnAnimate"]').click(function () {
+                if (toggleFlag) {
+                    $('#logo')
+                        .show()
+                        .animate(
+                            {
+                                'margin-left': '30px', // Apply these CSS properties
+                                'margin-top': '20px',
+                                'opacity': 0.2      // semi-transparent
+                            },
+                            2000  // Speed: 2 sec
+                        );
+                } else {
+                    $('#logo')
+                        .show()
+                        .animate(
+                            {
+                                'margin-left': '0px', // Apply these CSS properties
+                                'margin-top': '0px',
+                                'opacity': 1.0        // not transparent
+                            },
+                            3000  // Speed: 3 sec
+                        );
+                }
+                toggleFlag = !toggleFlag;
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+    <p>Hello, world!</p>
+    <input type="button" id="btnShow" value="Show">
+    <input type="button" id="btnHide" value="Hide">
+    <input type="button" id="btnToggle" value="Toggle">
+    <input type="button" id="btnFadeIn" value="Fade-In">
+    <input type="button" id="btnFadeOut" value="Fade-Out">
+    <input type="button" id="btnFadeToggle" value="Fade-Toggle">
+    <input type="button" id="btnSlideUp" value="Slide-Up">
+    <input type="button" id="btnSlideDown" value="Slide-Down">
+    <input type="button" id="btnSlideToggle" value="Slide-Toggle">
+    <input type="button" id="btnAnimate" value="Animate">
+    <br>
+    <img id="logo" src="TestImage.gif" alt="Test Image">
+</body>
+
+</html>
